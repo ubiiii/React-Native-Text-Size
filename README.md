@@ -1,5 +1,4 @@
 # React-Native-Text-Size
-# React Native Text Size
 
 Prior to layout, correctly measure the text and obtain font information from your app (Android and iOS).
 
